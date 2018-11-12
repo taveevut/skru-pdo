@@ -1,0 +1,20 @@
+#body-login .card-signin {
+   border: 0;
+   border-radius: 1rem;
+   box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+#body-login .card-signin .card-title {
+   margin-bottom: 2rem;
+   font-weight: 300;
+}
+
+#body-login .card-signin .card-body {
+   padding: 2rem;
+}
+
+
+.breadcrumb {
+   padding: 4px 15px !important;
+   background: transparent !important;
+}
